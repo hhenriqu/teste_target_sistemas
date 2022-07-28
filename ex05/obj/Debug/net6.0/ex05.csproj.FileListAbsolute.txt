@@ -1,0 +1,15 @@
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.csproj.AssemblyReference.cache
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.AssemblyInfoInputs.cache
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.AssemblyInfo.cs
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.csproj.CoreCompileInputs.cache
+X:\coder_workspace\teste TARGET\ex05\bin\Debug\net6.0\ex05.exe
+X:\coder_workspace\teste TARGET\ex05\bin\Debug\net6.0\ex05.deps.json
+X:\coder_workspace\teste TARGET\ex05\bin\Debug\net6.0\ex05.runtimeconfig.json
+X:\coder_workspace\teste TARGET\ex05\bin\Debug\net6.0\ex05.dll
+X:\coder_workspace\teste TARGET\ex05\bin\Debug\net6.0\ex05.pdb
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.dll
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\refint\ex05.dll
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.pdb
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ex05.genruntimeconfig.cache
+X:\coder_workspace\teste TARGET\ex05\obj\Debug\net6.0\ref\ex05.dll
